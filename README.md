@@ -13,5 +13,6 @@
 [Bipartite User-to-Topic Visual](/networks/bipartite-user-topic.md)
 
 ## Wordclouds
+[Polarized Mentions Wordcloud](/wordclouds/polarized-mentions.md)
 
 
