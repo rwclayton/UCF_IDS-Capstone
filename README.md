@@ -15,4 +15,6 @@
 ## Wordclouds
 [Polarized Mentions Wordcloud](/wordclouds/polarized-mentions.md)
 
+[Polarizing Topics Wordclouds](/wordclouds/topic-wordclouds.md)
+
 
