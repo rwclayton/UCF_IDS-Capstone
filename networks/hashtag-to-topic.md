@@ -1,1 +1,2 @@
-![Hashtag-to-Topic Image](/IDS_hashtag-to-topic)
+![Hashtag-to-Topic Image](IDS_hashtag-to-topic)
+
