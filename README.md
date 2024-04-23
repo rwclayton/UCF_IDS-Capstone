@@ -6,7 +6,7 @@
 [Polarized Tweets Heatmap](/maps/us_centered_polarization_heatmap.html)
 
 ## Network Visualizations
-[Hashtag-to-Topic Visual](/networks/IDS_hashtag-to-topic)
+[Hashtag-to-Topic Visual](/networks/hashtag-to-topic.md)
 ![Hashtag-toTopic Image](/networks/IDS_hashtag-to-topic)
 
 
