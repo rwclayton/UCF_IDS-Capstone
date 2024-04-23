@@ -1,3 +1,5 @@
+![Logo](/assets/img/IDS_capstone-logo.webp)
+
 # America's Polarization Pandemic
 
 ## Interactive Maps
