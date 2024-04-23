@@ -2,3 +2,4 @@
 locale                   : "en-US"
 title                    : "R.W.Clayton's IDS Capstone"
 title_separator          : "-"
+markdown                 : kramdown
