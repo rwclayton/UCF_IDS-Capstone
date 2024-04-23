@@ -7,4 +7,6 @@
 
 ## Network Visualizations
 [Hashtag-to-Topic Visual](/networks/IDS_hashtag-to-topic)
+![Hashtag-toTopic Image](/networks/IDS_hashtag-to-topic)
+
 
