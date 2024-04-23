@@ -9,6 +9,7 @@
 
 ## Network Visualizations
 [Hashtag-to-Topic Visual](/networks/hashtag-to-topic.md)
+[Bipartite User-to-Topic Visual](/networks/bipartite-user-topic.md)
 
 ## Wordclouds
 
