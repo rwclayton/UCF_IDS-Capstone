@@ -5,7 +5,7 @@
 
 [Color Coded Tweets Map](/maps/tweet_map.html){:target="_blank"} (opens in new tab)
 
-[Polarized Tweets Heatmap](/maps/us_centered_polarization_heatmap.html{:target="_blank"} (opens in new tab))
+[Polarized Tweets Heatmap](/maps/us_centered_polarization_heatmap.html){:target="_blank"} (opens in new tab)
 
 ## Network Visualizations
 [Hashtag-to-Topic Visual](/networks/hashtag-to-topic.md)
