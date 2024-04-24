@@ -22,6 +22,6 @@
 [Polarizing Topics Wordclouds](/wordclouds/topic-wordclouds.md)
 
 ## Other
-[Images from Polarizing Tweets](/images/tweet-images.jpg)
+[Images from Polarizing Tweets](/images/tweet-images.md)
 
 
