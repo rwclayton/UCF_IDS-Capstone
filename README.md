@@ -1,4 +1,4 @@
-<img src="/assets/img/IDS_capstone-logo.webp" width=200>
+<img src="/assets/img/IDS_capstone-logo.png" width=200>
 
 # America's Polarization Pandemic
 
