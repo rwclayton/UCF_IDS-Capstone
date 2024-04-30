@@ -2,6 +2,9 @@
 
 # America's Polarization Pandemic
 
+![image](https://github.com/rwclayton/UCF_IDS-Capstone/assets/89525272/6aa81bb9-0dc6-4d35-b696-690f69001358)
+
+
 ## Interactive Maps
 [Emoji Sentiment Map](/maps/final_emoji_tweet_map.html){:target="_blank"} (opens in new tab)
 
