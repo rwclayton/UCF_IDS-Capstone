@@ -27,6 +27,7 @@
 
 ## Other
 [Images from Polarizing Tweets](/images/tweet-images.md)
+
 [Codebook for Identifying Textual Markers of Polarization](analysis/capstone_CodeBook.pdf){:target="_blank"} (opens in new tab)
 
 
