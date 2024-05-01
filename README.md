@@ -1,6 +1,7 @@
 <img src="IDS_capstone-logo.png" width=200>
 
-# America's Polarization Pandemic
+# A PANDEMIC OF POLARIZATION:
+AN EXAMINATION OF THE RHETORICAL DIMENSION(S) OF POLITICAL POLARIZATION THROUGH THE CONTEXT OF COVID-19
 
 ![image](https://github.com/rwclayton/UCF_IDS-Capstone/assets/89525272/6aa81bb9-0dc6-4d35-b696-690f69001358)
 
